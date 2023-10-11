@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Переключение между октавами F1, F2");
+﻿Console.WriteLine("Переключение между октавами F2, F3");
 
 ConsoleKeyInfo cls;
 ConsoleKeyInfo key;
